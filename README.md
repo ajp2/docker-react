@@ -19,3 +19,5 @@ Files added on top of create-react-app:
 - Dockerfile.dev
 - docker-compose.yml
 - Dockerfile
+
+Travis CI is used to build a CI/CD pipeline, along with AWS Elastic Beanstalk.
